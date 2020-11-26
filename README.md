@@ -11,6 +11,7 @@ I wrote this in C++ to mix things up a little.
 
 ## Some output
 ![](https://i.imgur.com/wpioZ9o.png)
+
 *I updated some code*
 
 ## How to compile
