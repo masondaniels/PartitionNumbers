@@ -122,8 +122,8 @@ int main() {
     while (true) {
         int n = 666;
         cin >> n;
-        mpz_class a = getPartition(n);
-        cout << "The " << n << "th partition number was " << a << endl;
+        mpz_class a = getPartition(n+1);
+        cout << "There are " << a << " partitions belonging to " << n << endl;
     }
 
 }
